@@ -15,9 +15,9 @@ updates:
       interval: "weekly"
     open-pull-requests-limit: 10
     assignees:
-      - "espen42"
+      - "rymsha"
     reviewers:
-      - "espen42"
+      - "rymsha"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
